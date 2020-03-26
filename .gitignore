@@ -59,7 +59,3 @@ typings/
 
 # idea project settings
 .idea
-
-# Transpiled code
-dist
-
